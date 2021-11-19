@@ -6,3 +6,7 @@
 | Dependency | Version |
 | ----- | ----- |
 | Ruby | 3.0.1p64 |
+
+## How to Run Test
+
+`bundle exec rspec`
