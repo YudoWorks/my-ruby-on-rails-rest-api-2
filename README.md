@@ -5,4 +5,4 @@
 ## Prerequisite
 | Dependency | Version |
 | ----- | ----- |
-| Ruby | 2.7.3p183 |
+| Ruby | 3.0.1p64 |
